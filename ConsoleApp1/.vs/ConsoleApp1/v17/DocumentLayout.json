@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hoc Lieu\\DotNet\\GitC#Ex\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10FDC463-AF87-48B0-A399-886612BB6FFD}|May doc chu\\May doc chu.csproj|e:\\hoc lieu\\dotnet\\gitc#ex\\consoleapp1\\may doc chu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FDC463-AF87-48B0-A399-886612BB6FFD}|May doc chu\\May doc chu.csproj|solutionrelative:may doc chu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E63984-D493-4ADF-8577-A4F21A270DCE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\hoctap\\prj_github\\codegymex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E63984-D493-4ADF-8577-A4F21A270DCE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\hoc lieu\\dotnet\\gitc#ex\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E63984-D493-4ADF-8577-A4F21A270DCE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoc Lieu\\DotNet\\GitC#Ex\\ConsoleApp1\\May doc chu\\Program.cs",
+              "RelativeDocumentMoniker": "May doc chu\\Program.cs",
+              "ToolTip": "E:\\Hoc Lieu\\DotNet\\GitC#Ex\\ConsoleApp1\\May doc chu\\Program.cs",
+              "RelativeToolTip": "May doc chu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:34:26.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Hoctap\\Prj_Github\\CodeGymEX\\Program.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Hoctap\\Prj_Github\\CodeGymEX\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvx0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:03:31.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoc Lieu\\DotNet\\GitC#Ex\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Hoc Lieu\\DotNet\\GitC#Ex\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:30:33.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

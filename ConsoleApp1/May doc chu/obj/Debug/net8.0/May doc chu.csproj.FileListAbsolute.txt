@@ -1,0 +1,14 @@
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\bin\Debug\net8.0\May doc chu.exe
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\bin\Debug\net8.0\May doc chu.deps.json
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\bin\Debug\net8.0\May doc chu.runtimeconfig.json
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\bin\Debug\net8.0\May doc chu.dll
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\bin\Debug\net8.0\May doc chu.pdb
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.AssemblyInfoInputs.cache
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.AssemblyInfo.cs
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.csproj.CoreCompileInputs.cache
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.dll
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\refint\May doc chu.dll
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.pdb
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\May doc chu.genruntimeconfig.cache
+E:\Hoc Lieu\DotNet\GitC#Ex\ConsoleApp1\May doc chu\obj\Debug\net8.0\ref\May doc chu.dll
